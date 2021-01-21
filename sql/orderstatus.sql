@@ -1,0 +1,10 @@
+INSERT INTO `orderstatus` VALUES (1000, 1000, '2020-11-16', 'P');
+INSERT INTO `orderstatus` VALUES (1001, 1001, '2020-11-16', 'P');
+INSERT INTO `orderstatus` VALUES (1002, 1002, '2020-11-16', 'P');
+INSERT INTO `orderstatus` VALUES (1003, 1003, '2020-11-17', 'P');
+INSERT INTO `orderstatus` VALUES (1004, 1004, '2020-11-17', 'P');
+INSERT INTO `orderstatus` VALUES (1005, 1005, '2020-11-17', 'P');
+INSERT INTO `orderstatus` VALUES (1006, 1006, '2020-12-1', 'P');
+INSERT INTO `orderstatus` VALUES (1007, 1007, '2020-12-1', 'P');
+INSERT INTO `orderstatus` VALUES (1008, 1008, '2020-12-1', 'P');
+INSERT INTO `orderstatus` VALUES (1009, 1009, '2020-12-1', 'P');
